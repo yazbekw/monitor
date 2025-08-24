@@ -8,8 +8,8 @@ import requests
 import pytz
 
 # إعدادات Telegram - ضع هنا معلومات بوتك
-TELEGRAM_BOT_TOKEN = "8134471132:AAEdQo6TaKSEhB7BBmZ-Kl4K7IYookjNe0s"
-TELEGRAM_CHAT_ID = "1467259305"
+TELEGRAM_BOT_TOKEN = "your_telegram_bot_token_here"
+TELEGRAM_CHAT_ID = "your_chat_id_here"
 
 
 # تعريف الأصول التي تتابعها
@@ -273,4 +273,5 @@ def main():
             time.sleep(60)
 
 if __name__ == "__main__":
+
     main()
