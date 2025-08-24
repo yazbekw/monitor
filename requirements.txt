@@ -1,0 +1,6 @@
+yfinance==0.2.36
+schedule==1.2.1
+numpy==1.26.4
+requests==2.31.0
+pytz==2024.1
+pandas==2.2.2
